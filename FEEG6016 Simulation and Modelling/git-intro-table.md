@@ -4,14 +4,14 @@
 | GB   |        |
 | KD   |        |
 | DL   |        |
-| RP   |        |
+| RP   | 42     |
 | APD  |        |
 | CR   |        |
 | HR   |        |
 | KS   |        |
 | KD   |        |
 | AS   |        |
-| LU   |        |
+| LU   |   43   |
 | NVLG |        |
 | TW   |        |
 | EZ   |        |
