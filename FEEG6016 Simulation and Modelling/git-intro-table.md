@@ -6,7 +6,7 @@
 | DL   |        |
 | RP   |        |
 | APD  |        |
-| CR   |        |
+| CBR  | 5      |
 | HR   |        |
 | KS   |        |
 | KD   |        |
