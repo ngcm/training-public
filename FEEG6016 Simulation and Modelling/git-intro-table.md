@@ -1,17 +1,17 @@
 | Name | Number |
 |------|--------|
 | IH   | 3.14   |
-| GB   |        |
+| GB   | 3      |
 | KD   |        |
 | DL   |        |
 | RP   | 42     |
 | APD  |        |
-| CR   |        |
+| CBR  | 5      |
 | HR   |        |
-| KS   |        |
+| KS   | 47     |
 | KD   |        |
 | AS   |        |
 | LU   |   43   |
 | NVLG |        |
 | TW   |        |
-| EZ   |        |
+| EZ   | 3      |
